@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Cat's Bakery</title>
+</head>
+
+	<body style="background-color:#ffe5b4;">
+	<style>
+	h1 {text-align: center;}
+	</style>
+	<font size="10"
+	face= "Courier">		
+	<h1>Cat's Bakery</h1>
+	</font>
+	<font size="5">
+	<p>Come visit our lovely bakery!</p>
+	</font>
+	
+
+		<div style="text-align: center;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fresh_made_bread_05.jpg/1200px-Fresh_made_bread_05.jpg"
+		alt="bread" width="400" height="300">
+		</div>
+	</body>
+</html>
